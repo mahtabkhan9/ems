@@ -28,8 +28,8 @@ A responsive and interactive Employee Management System built using **React.js**
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/mahtabkhan9/employee-management-system.git
-cd employee-management-system
+git clone https://github.com/mahtabkhan9/ems.git
+cd ems
 ```
 
 2. **Install dependencies**
