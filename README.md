@@ -4,6 +4,25 @@ A responsive and interactive Employee Management System built using **React.js**
 
 ---
 
+## Login Data for Admin and Empolyees
+1. **Admin**
+   1. Email Id: admin@example.com
+      Password: 123
+
+2. **Employees**
+   1. Email Id: employee1@example.com
+      Password: 123
+   2. Email Id: employee2@example.com
+      Password: 123
+   3. Email Id: employee3@example.com
+      Password: 123
+   4. Email Id: employee4@example.com
+      Password: 123
+   5. Email Id: employee5@example.com
+      Password: 123
+
+---
+
 ## Features
 
 - ✅ View list of employees
